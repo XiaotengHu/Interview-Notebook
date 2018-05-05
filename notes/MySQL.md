@@ -84,9 +84,9 @@ VARCHAR 会保留字符串末尾的空格，而 CHAR 会删除。
 
 ## 时间和日期
 
-MySQL 提供了两种相似的日期时间类型：DATATIME 和 TIMESTAMP。
+MySQL 提供了两种相似的日期时间类型：DATETIME 和 TIMESTAMP。
 
-### 1. DATATIME
+### 1. DATETIME
 
 能够保存从 1001 年到 9999 年的日期和时间，精度为秒，使用 8 字节的存储空间。
 
